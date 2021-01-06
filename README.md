@@ -1,4 +1,5 @@
-# snake
+# Playing Snake Using Q-Learning
+
 Reinforcement Learning Project
 
 Full Medium on the project to be found here: https://data4help.medium.com/human-vs-machine-reinforcement-learning-in-the-context-of-snake-ae84d0b1f5d1
