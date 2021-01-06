@@ -14,8 +14,7 @@ Running the code leads to the starting page of the game, which looks like this:
 
 
 The game itself looks like this:
-
-
+![Screenshot 2021-01-06 at 17 42 47](https://user-images.githubusercontent.com/52722450/103796753-e3391080-5047-11eb-873b-e34b41a02a0c.png)
 
 ## Rules of the game
 - Eat more rabbits than the reinforcement snake and die less often - What counts is the eating/dying ratio
