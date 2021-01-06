@@ -10,6 +10,7 @@ The structure is as follows:
 3. Sounds --- For a hyper realistic game, Snake Snack eating sounds are saved in this folder 
 
 Running the code leads to the starting page of the game, which looks like this:
+![Screenshot 2021-01-06 at 17 42 56](https://user-images.githubusercontent.com/52722450/103796409-6f970380-5047-11eb-921e-f2165edd368c.png)
 
 
 The game itself looks like this:
